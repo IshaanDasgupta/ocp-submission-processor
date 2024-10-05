@@ -1,4 +1,3 @@
-import mongoose from "mongoose";
 import { Submission } from "../models/Submission.js";
 import { User } from "../models/User.js";
 import { Problem } from "../models/Problem.js";

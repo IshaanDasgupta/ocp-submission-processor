@@ -11,8 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.10.4",
+    "async-redis": "^2.0.0",
+    "bluebird": "^3.7.2",
     "dotenv": "^16.4.5",
-    "mongoose": "^8.5.3"
+    "mongoose": "^8.5.3",
+    "redis": "^4.7.0"
   },
   "type": "module"
 }
